@@ -4,7 +4,7 @@ import google.generativeai as genai
 st.title('welcome to my app')
 
 
-genai.configure(api_key="paste your key")
+genai.configure(api_key="AIzaSyDqeYIpvsqCO64849ypZgVQcku_AuiyqNg")
 text = st.text_input("Enter something: ")
 
 
